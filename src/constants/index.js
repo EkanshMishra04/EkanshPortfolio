@@ -209,15 +209,15 @@ import {
       tags: [
         {
           name: "Spring Boot",
-          color: "blue-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "mongodb",
-          color: "green-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "Java",
-          color: "pink-text-gradient",
+          color: "white-text-gradient",
         },
       ],
       image: carrent,
@@ -230,15 +230,15 @@ import {
       tags: [
         {
           name: "react",
-          color: "blue-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "CSS",
-          color: "green-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "JavaScript",
-          color: "pink-text-gradient",
+          color: "white-text-gradient",
         },
       ],
       image: jobit,
@@ -251,15 +251,15 @@ import {
       tags: [
         {
           name: "Keras",
-          color: "blue-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "TensorFLow",
-          color: "green-text-gradient",
+          color: "white-text-gradient",
         },
         {
           name: "Python",
-          color: "pink-text-gradient",
+          color: "white-text-gradient",
         },
       ],
       image: handDigit,
