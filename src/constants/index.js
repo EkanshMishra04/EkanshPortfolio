@@ -177,7 +177,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Ekansh is an exceptional mentee. Their dedication, curiosity, and willingness to learn make them a standout learner. I'm confident they will achieve great success.",
+        "Ekansh is an exceptional mentee. His dedication, curiosity, and willingness to learn make them a standout learner. I'm confident he will achieve great success.",
       name: "Osheen Gulati",
       designation: "Mentor",
       company: "Nagarro",
